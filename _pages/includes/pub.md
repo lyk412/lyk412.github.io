@@ -3,6 +3,16 @@
 
 ## 🪄 3D Generation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HVIS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HVIS: A Human-like Vision and Inference System for Human Motion Prediction** \\
+Kedi Lyu, Haipeng Chen, Zhenguang Liu, Yifang Yin, **Yukang Lin**, Yingying Jiao
+
+[**[Paper]**](https://arxiv.org/pdf/2502.16913) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mambatalk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
