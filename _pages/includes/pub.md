@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-## 🪄 3D Generation
+## 🪄 Motion Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HVIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -26,6 +26,8 @@ Zunnan Xu<sup>★</sup>, **Yukang Lin**<sup>★</sup>, Haonan Han<sup>★</sup>,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/consistent123.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+## 🪄 3D Generation
 
 **Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors** \\
 **Yukang Lin**<sup>★</sup>, Haonan Han<sup>★</sup>, Chaoqun Gong, Zunnan Xu, Yachao Zhang<sup>†</sup>, Xiu Li<sup>†</sup>
