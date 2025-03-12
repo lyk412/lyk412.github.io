@@ -19,7 +19,7 @@ Kedi Lyu, Haipeng Chen, Zhenguang Liu, Yifang Yin, **Yukang Lin**, Yingying Jiao
 **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models** \\
 Zunnan Xu<sup>★</sup>, **Yukang Lin**<sup>★</sup>, Haonan Han<sup>★</sup>, Sicheng Yang, Ronghui Li, Yachao Zhang<sup>†</sup>, Xiu Li<sup>†</sup>
 
-[**[Project]**](https:kkakkkka.github.io/MambaTalk) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Project]**](https:kkakkkka.github.io/MambaTalk/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Paper]**](https://arxiv.org/pdf/2403.09471) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Code]**](https://github.com/kkakkkka/MambaTalk) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
