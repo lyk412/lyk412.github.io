@@ -1,6 +1,18 @@
 
 # 📝 Publications 
 
+## 🪄 Video Generation
+
+**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation** \\
+Yukang Lin<sup>★</sup>, Hokit Fung<sup>★</sup>, Jianjin Xu, Zeping Ren, Adela S.M. Lau, Guosheng Yin<sup>†</sup>, Xiu Li<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/pdf/2503.19383) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/MVportrait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 ## 🪄 Motion Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HVIS.png' alt="sym" width="100%"></div></div>
