@@ -3,6 +3,9 @@
 
 ## 🪄 Video Generation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/MVportrait.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation** \\
 Yukang Lin<sup>★</sup>, Hokit Fung<sup>★</sup>, Jianjin Xu, Zeping Ren, Adela S.M. Lau, Guosheng Yin<sup>†</sup>, Xiu Li<sup>†</sup>
 
@@ -10,8 +13,6 @@ Yukang Lin<sup>★</sup>, Hokit Fung<sup>★</sup>, Jianjin Xu, Zeping Ren, Adel
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/MVportrait.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
 ## 🪄 Motion Generation
 
