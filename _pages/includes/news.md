@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2025.03*: 🎉 Our team ranked **4th** in the *NTIRE 2025 Image-Text Alignment competition*.
 - *2025.02*: 🎉 One Paper of portrait animation is accepted by **CVPR 2025**.
 - *2024.12*: 🎉 One Paper of human motion prediction is accepted by **AAAI 2025**.
 - *2024.09*: 🎉 One Paper of holistic gesture synthesis is accepted by **NeurIPS 2024**.
