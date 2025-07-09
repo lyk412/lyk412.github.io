@@ -4,4 +4,5 @@
 - *2019.09 - 2023.06*, Bachelor, Jilin University, Jilin.
 
 # 💻 Internships
-- *2024.09 - Now*, Ant Group, Hangzhou.
+- *2025.04 - Now*, Alibaba Group, Hangzhou.
+- *2024.09 - 2025.04*, Ant Group, Hangzhou.
