@@ -3,6 +3,16 @@
 
 ## 🪄 Video Generation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/InterAnimate.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation** \\
+Yukang Lin<sup>★</sup>, Yan Hong<sup>★</sup>, Zunnan Xu, Xindi Li, Chao Xu, Chuanbiao Song, Ronghui Li, Haoxing Chen, Jun Lan, Huijia Zhu<sup>†</sup>, Weiqiang Wang, Jianfu Zhang<sup>†</sup>, Xiu Li<sup>†</sup>
+
+[**[Paper]**](https://arxiv.org/abs/2504.10905) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/MVportrait.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
