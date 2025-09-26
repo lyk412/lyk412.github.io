@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2025.08*: 🎉 One Paper of test-time adaptation is accepted by **EMNLP 2025**.
 - *2025.07*: 🎉 Two papers accepted to **ACMMM 2025**: one on hand-face interaction animation and the other on MLLM-based unified motion generation.
 - *2025.04*: I join **Alibaba Group** as a research intern, working on multimodal large language models.
 - *2025.03*: 🎉 Our team ranked **4th** in the *NTIRE 2025 Image-Text Alignment competition*.
