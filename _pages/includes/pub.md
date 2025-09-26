@@ -26,6 +26,16 @@ Yukang Lin<sup>★</sup>, Hokit Fung<sup>★</sup>, Jianjin Xu, Zeping Ren, Adel
   
 ## 🪄 Motion Generation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/MotionUPG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Motion is Worth a Hybrid Sentence: Taming Language Model for Unified Motion Generation by Fine-grained Planning** \\
+Ronghui Li, Lingxiao Han, Shi Shu, Yueyao Liu, **Yukang Lin**, Yue Ma, Jie Guo, Ziwei Liu, Xiu Li
+
+[**[Paper]**](https://openreview.net/pdf?id=CYYhzepqrr) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/HVIS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
