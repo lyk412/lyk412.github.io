@@ -1,6 +1,27 @@
 
 # 📝 Publications 
 
+## 🪄 Multi-Modal Understanding
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">tech report</div><img src='images/moon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**MOONE mbedding: MultimodalRepresentation Learning for E-commerce Search Advertising** \\
+Chenghan Fu<sup>★</sup>, Daoze Zhang<sup>★</sup>, Yukang Lin<sup>★</sup>, Zhanheng Nie<sup>★</sup>, Xiang Zhang, Jianyu Liu, Yueran Liu, Wanxian Guan, Pengjie Wang, Jian Xu, Bo Zheng<sup>†</sup>
+[**[Paper]**](https://arxiv.org/abs/2511.11305) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">tech report</div><img src='images/creative4u.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Creative4U: MLLMs-based Advertising Creative Image Selector with Comparative Reasoning** \\
+Yukang Lin<sup>★</sup>, Xiang Zhang<sup>★</sup>, Shichang Jia, Bowen Wan, Chenghan Fu, Xudong Ren, Yueran Liu, Wanxian Guan, Pengji Wang, Jian Xu, Bo Zheng<sup>†</sup>, Baolin Liu<sup>†</sup>
+[**[Paper]**](https://arxiv.org/abs/2508.12628) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+</div>
+</div>
+
 ## 🪄 Video Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/InterAnimate.png' alt="sym" width="100%"></div></div>
